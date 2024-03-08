@@ -2,18 +2,18 @@ import { useState } from "react";
 import "./App.css";
 
 const phrases = [
-  "Hello",
-  "World",
-  "Test",
-  "Test2",
-  "Test3",
-  "Test4",
-  "Test5",
-  "Test6",
-  "Test7",
-  "Test8",
-  "Test9",
-  "Test10",
+  "please",
+  "pleasee",
+  "Please take them",
+  "pretty people",
+  "Reminder that you are EPIC",
+  "Bad woman",
+  "just accept the damn flower :(",
+  "the goofy lil dog is wating for you",
+  "🌸🌺💮",
+  "🌹",
+  "💐(^ω^ )",
+  "If you aint taking the flower, at least have a hug (づ ᴗ _ᴗ)づ♡",
 ];
 
 function App() {
@@ -39,7 +39,7 @@ function App() {
               width="480"
               height="270"
               frameBorder="0"
-              class="giphy-embed"
+              className="giphy-embed"
               allowFullScreen
             ></iframe>
 
@@ -55,7 +55,7 @@ function App() {
               src="https://giphy.com/embed/TTr3zADf3SiaLQJtcg"
               width="480"
               height="480"
-              class="giphy-embed"
+              className="giphy-embed"
               allowFullScreen
             ></iframe>
             <h1 className="text-container">Do you accept these flower?</h1>
