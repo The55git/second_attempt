@@ -13,6 +13,7 @@ const phrases = [
   "🌸🌺💮",
   "🌹",
   "💐(^ω^ )",
+  "🥀 the flower died 🥀",
   "If you aint taking the flower, at least have a hug (づ ᴗ _ᴗ)づ♡",
 ];
 
